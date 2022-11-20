@@ -1,5 +1,14 @@
 # KYC on Blockchain
-We all know how difficult it is for a normal user to get his KYC data verified from any third party source or banks. Privacy will always be treated as a joke until technologies such as Bloackchain, IPFS are rapidly used in daily life applications. We made a KYC application that uses blockchain as a database which ensures security and privacy of a user. This application is deployed and tested on a local test network such as Ganache using truffle and web3.js. 
+Members - 
+Pranav Patki - 1911038
+
+
+Divyam Patani - 1911035
+
+Raj Rathod - 1911043
+
+
+We made a KYC application that uses blockchain as a database which ensures security and privacy of a user. This application is tested on a local test network such as Ganache using truffle and web3.js. 
 
 # Techonologies Used
 frontend - ReactJS
@@ -14,7 +23,3 @@ backend - Ethereum Developement Network (Ganache), web3.js, truffle
   1) Since this project only supports development networks, check if Ganache Network is running behind.
   2) Also remember to change port to 8545 from 7545 if using ganache-cli.
   3) Do make sure you create bank accounts before creating a customer.
-
-# Logic flow of the application working
-
-![logic flow](./logic-flow.png "logic-flow")
